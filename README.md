@@ -9,7 +9,7 @@ Test .Net Json libraries:
 4. MongoDB Bson  
 5. JSON.NET  
 
-#### Test1 : 1,000 deserialization (*):
+#### Test1 : 1,000 Dictionary<> deserialization (*):
 | Rank   | Library       | Elapsed time  |
 | -------|:-------------:| -------------:|
 | 1      | fastJSON      | 56ms |
