@@ -8,7 +8,7 @@ TestJson benchmarks .Net Json libraries:
 4. MongoDB Bson  
 5. JSON.NET  
 
-#### Benchmark 1 : 1,000 Dictionary<> deserialization (*):
+#### Benchmark 1 : 1,000 x Dictionary<> deserialization (*):
 | Rank   | Library       | Elapsed time  |
 | -------|:-------------:| -------------:|
 | 1      | fastJSON      | 56ms |
