@@ -8,7 +8,7 @@ TestJson benchmarks .Net Json libraries:
 4. MongoDB Bson  
 5. JSON.NET  
 
-#### Benchmark 1 : 1,000 x Dictionary<> deserialization (*):
+#### Benchmark 1 : 1,000 x Dictionary<> deserialization:
 | Rank   | Library       | Elapsed time  |
 | -------|:-------------:| -------------:|
 | 1      | fastJSON      | 56ms |
@@ -16,4 +16,4 @@ TestJson benchmarks .Net Json libraries:
 | 3      | LitJson       | 110ms |
 | 4      | MongoDB Bson  | 170ms |
 | 5      | JSON.NET      | 207ms |
-(*): Intel Core i7-4720HQ CPU @ 2.60GHs  
+Intel Core i7-4720HQ CPU @ 2.60GHs  
