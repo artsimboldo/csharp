@@ -1,0 +1,7 @@
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\consoletest\bin\Debug\consoletest.exe
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\consoletest\bin\Debug\consoletest.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\consoletest\bin\Debug\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\consoletest\bin\Debug\fastJSON.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\consoletest\obj\Debug\consoletest.csprojResolveAssemblyReference.cache
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\consoletest\obj\Debug\consoletest.exe
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\consoletest\obj\Debug\consoletest.pdb

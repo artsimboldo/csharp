@@ -1,0 +1,5 @@
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJson\fastJson\bin\Debug\fastJson.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJson\fastJson\bin\Debug\fastJson.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJson\fastJson\obj\Debug\fastJson.csprojResolveAssemblyReference.cache
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJson\fastJson\obj\Debug\fastJson.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJson\fastJson\obj\Debug\fastJson.pdb

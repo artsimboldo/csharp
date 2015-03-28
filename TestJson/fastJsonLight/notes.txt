@@ -1,0 +1,4 @@
+Notes:
+fastJSON:
+- compile in .NET 3.5 using SILVERLIGHT directive to exclude System.Data (ADO.NET) which is blocked by Unity because Mono requires System.Net.Sockets to use it.
+ 

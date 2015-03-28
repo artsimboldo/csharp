@@ -1,0 +1,9 @@
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\bin\Release\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\bin\Release\fastJSON.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\obj\Release\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\obj\Release\fastJSON.pdb
+C:\Users\herve\dev\git\csharp\TestJson\packages\fastJSON\fastJSON\bin\Release\fastJSON.dll
+C:\Users\herve\dev\git\csharp\TestJson\packages\fastJSON\fastJSON\bin\Release\fastJSON.pdb
+C:\Users\herve\dev\git\csharp\TestJson\packages\fastJSON\fastJSON\obj\Release\fastJSON.dll
+C:\Users\herve\dev\git\csharp\TestJson\packages\fastJSON\fastJSON\obj\Release\fastJSON.pdb
+C:\Users\herve\dev\git\csharp\TestJson\packages\fastJSON\fastJSON\obj\Release\fastJSON.csprojResolveAssemblyReference.cache

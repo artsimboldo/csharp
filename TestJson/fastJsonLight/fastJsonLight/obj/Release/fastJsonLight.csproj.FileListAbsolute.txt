@@ -1,0 +1,8 @@
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\bin\Release\fastJsonLight.exe.config
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\bin\Release\fastJsonLight.exe
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\bin\Release\fastJsonLight.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\bin\Release\fastJson.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\bin\Release\fastJson.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\obj\Release\fastJsonLight.csprojResolveAssemblyReference.cache
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\obj\Release\fastJsonLight.exe
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJsonLight\fastJsonLight\obj\Release\fastJsonLight.pdb

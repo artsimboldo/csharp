@@ -1,0 +1,13 @@
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\bin\Debug\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\bin\Debug\fastJSON.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\obj\Debug\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\fastJSON\fastJSON\obj\Debug\fastJSON.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\bin\Debug\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\bin\Debug\fastJSON.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\obj\Debug\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\obj\Debug\fastJSON.pdb
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\bin\Debug\fastJSON.dll
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\bin\Debug\fastJSON.pdb
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\obj\Debug\fastJSON.csprojResolveAssemblyReference.cache
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\obj\Debug\fastJSON.dll
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\packages\fastJSON\fastJSON\obj\Debug\fastJSON.pdb

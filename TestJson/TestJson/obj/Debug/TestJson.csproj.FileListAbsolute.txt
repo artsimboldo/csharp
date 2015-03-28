@@ -1,0 +1,60 @@
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\TestJson.exe.config
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\TestJson.exe
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\TestJson.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\obj\Debug\TestJson.csprojResolveAssemblyReference.cache
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\obj\Debug\TestJson.exe
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\obj\Debug\TestJson.pdb
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\LitJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\ServiceStack.Text.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\ServiceStack.Text.xml
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Bson.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Driver.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Bson.xml
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Driver.xml
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\fastJSON.dll
+C:\Users\Hervé\dev\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\fastJSON.pdb
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\TestJson.exe.config
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\obj\Debug\TestJson.exe
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\obj\Debug\TestJson.pdb
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\TestJson.exe
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\TestJson.pdb
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\fastJSON.dll
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\LitJSON.dll
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Bson.dll
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Driver.dll
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\ServiceStack.Text.dll
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\fastJSON.pdb
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Bson.xml
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\MongoDB.Driver.xml
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\bin\Debug\ServiceStack.Text.xml
+C:\Users\Hervé\Documents\Visual Studio 2012\Projects\TestJson\TestJson\obj\Debug\TestJson.csprojResolveAssemblyReference.cache
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\TestJson.exe.config
+C:\Users\herve\dev\VS\TestJson\TestJson\obj\Debug\TestJson.exe
+C:\Users\herve\dev\VS\TestJson\TestJson\obj\Debug\TestJson.pdb
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\TestJson.exe
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\TestJson.pdb
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\fastJSON.dll
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\LitJSON.dll
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\MongoDB.Bson.dll
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\MongoDB.Driver.dll
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\ServiceStack.Text.dll
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\fastJSON.pdb
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\MongoDB.Bson.xml
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\MongoDB.Driver.xml
+C:\Users\herve\dev\VS\TestJson\TestJson\bin\Debug\ServiceStack.Text.xml
+C:\Users\herve\dev\VS\TestJson\TestJson\obj\Debug\TestJson.csprojResolveAssemblyReference.cache
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\TestJson.exe.config
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\obj\Debug\TestJson.exe
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\obj\Debug\TestJson.pdb
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\obj\Debug\TestJson.csprojResolveAssemblyReference.cache
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\TestJson.exe
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\TestJson.pdb
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\fastJSON.dll
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\LitJSON.dll
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\MongoDB.Bson.dll
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\MongoDB.Driver.dll
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\ServiceStack.Text.dll
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\fastJSON.pdb
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\MongoDB.Bson.xml
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\MongoDB.Driver.xml
+C:\Users\herve\dev\git\csharp\TestJson\TestJson\bin\Debug\ServiceStack.Text.xml
