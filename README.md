@@ -16,4 +16,4 @@ TestJson benchmarks .Net Json libraries:
 | 3      | LitJson       | 110ms |
 | 4      | MongoDB Bson  | 170ms |
 | 5      | JSON.NET      | 207ms |
-Intel Core i7-4720HQ CPU @ 2.60GHs  
+Intel Core i7-4720HQ CPU @ 2.60GHz
